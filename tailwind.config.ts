@@ -11,6 +11,19 @@ const config: Config = {
   theme: {
   	extend: {
   		colors: {
+			hopbush: {
+				50: '#fbf4f9',
+				100: '#f8ebf5',
+				200: '#f2d8ec',
+				300: '#e9b8dd',
+				400: '#da8cc4',
+				500: '#d076b4',
+				600: '#b74b90',
+				700: '#9d3976',
+				800: '#823262',
+				900: '#6e2d54',
+				950: '#41162f',
+			  },
   			background: 'hsl(var(--background))',
   			foreground: 'hsl(var(--foreground))',
   			card: {
