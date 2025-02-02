@@ -1,7 +1,7 @@
-import { TestComponent } from "@/features/test";
+import { TestComponent } from "@/features/Button test";
 
 export default function Home() {
   return (
     <TestComponent />
-  );
+  );  
 }
